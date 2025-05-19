@@ -1,0 +1,6 @@
+{
+    "todos": [
+      { "id": 1, "title": "Comprar víveres", "completed": false },
+      { "id": 2, "title": "Lavar el coche", "completed": true }
+    ]
+  }
